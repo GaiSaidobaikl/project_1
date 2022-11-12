@@ -1,0 +1,1 @@
+console.writeline("g")
